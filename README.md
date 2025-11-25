@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon GitHub
 
 ## 💻 À propos de moi
-Étudiant en informatique en 2ᵉ année de BUT, passionné par le développement logiciel et l'administration système. J'aime explorer de nouvelles technologies et travailler sur des projets variés, du Minecraft, du web au DevOps.
+Étudiant en informatique en 3ᵉ année de BUT, passionné par le développement logiciel et l'administration système. J'aime explorer de nouvelles technologies et travailler sur des projets variés, du Minecraft, du web au DevOps.
 
 ---
 
@@ -13,8 +13,8 @@
 
 ### 🏗️ Technologies :
 - **Back-end** : Flask, FastAPI, MySQL, MariaDB, Redis, MongoDB
-- **Front-end** : React, Next.js
-- **DevOps** : Docker, Git, GitHub Actions
+- **Front-end** : React, React-Native, Next.js
+- **DevOps** : Docker, Git, Gitea, GitHub Actions
 
 ---
 
